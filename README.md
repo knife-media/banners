@@ -1,0 +1,1 @@
+# AdFox banners synchronization
