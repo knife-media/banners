@@ -1,0 +1,3 @@
+config/google-credentials.json
+vendor/
+.env

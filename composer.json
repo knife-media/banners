@@ -1,0 +1,11 @@
+{
+    "description": "Adfox banners synchronization",
+    "authors": [{
+        "name": "Anton Lukin",
+        "homepage": "https://lukin.me"
+    }],
+    "require": {
+        "google/apiclient": "^2.0",
+        "vlucas/phpdotenv": "^5.0"
+    }
+}
